@@ -1,4 +1,6 @@
 ﻿using DiscordBot.Attributes;
+using DiscordBot.Handlers.Dialogue;
+using DiscordBot.Handlers.Dialogue.Steps;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
 using DSharpPlus.Interactivity.Extensions;
@@ -70,6 +72,32 @@ namespace DiscordBot.Commands
             var interactivity = ctx.Client.GetInteractivity();
             var message = await interactivity.WaitForReactionAsync(x => x.Channel == ctx.Channel).ConfigureAwait(false);
             await ctx.Channel.SendMessageAsync(message.Result.Emoji);
+        }
+
+        [Command("dialogo")]
+        public async Task Dialogo (CommandContext ctx)
+        {
+            var inputStep = new TextStep("Fale algo interessante!", null, minLenght:3);
+            var funnyStep = new IntStep("Haha, engraçadão", null, maxValue:100);
+            string input = string.Empty;
+            int value = 0;
+            inputStep.OnValidResult += (result) => 
+            {
+                input = result;
+                if (result == "algo interessante")
+                {
+                    inputStep.SetNextStep(funnyStep);
+                }
+            };
+
+            funnyStep.OnValidResult += (result) => value = result;
+
+            var userChannel = await ctx.Member.CreateDmChannelAsync().ConfigureAwait(false);
+            var inputDialogueHandler = new DialogueHandler(ctx.Client, ctx.Channel, ctx.User, inputStep);
+            bool succeeded = await inputDialogueHandler.ProcessDialogue().ConfigureAwait(false);
+            if (!succeeded) { return; }
+            await ctx.Channel.SendMessageAsync(input.ToUpper()).ConfigureAwait(false);
+            await ctx.Channel.SendMessageAsync(value.ToString()).ConfigureAwait(false);
         }
     }
 }
