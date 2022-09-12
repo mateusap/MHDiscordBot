@@ -1,4 +1,5 @@
-﻿using DSharpPlus.CommandsNext;
+﻿using DiscordBot.Attributes;
+using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
 using DSharpPlus.Interactivity.Extensions;
 using System;
@@ -13,6 +14,7 @@ namespace DiscordBot.Commands
     {
         [Command("ping")]
         [Description("Retorna Pong")]
+        [RequireCategories(ChannelCheckMode.Any, "Canais de Texto")]
         public async Task Ping (CommandContext ctx)
         {
             await ctx.Channel.SendMessageAsync("Pong").ConfigureAwait(false);
