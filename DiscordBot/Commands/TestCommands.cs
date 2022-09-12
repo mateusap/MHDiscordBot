@@ -93,7 +93,7 @@ namespace DiscordBot.Commands
             funnyStep.OnValidResult += (result) => value = result;
 
             var userChannel = await ctx.Member.CreateDmChannelAsync().ConfigureAwait(false);
-            var inputDialogueHandler = new DialogueHandler(ctx.Client, ctx.Channel, ctx.User, inputStep);
+            var inputDialogueHandler = new DialogueHandler(ctx.Client, userChannel, ctx.User, inputStep);
             bool succeeded = await inputDialogueHandler.ProcessDialogue().ConfigureAwait(false);
             if (!succeeded) { return; }
             await ctx.Channel.SendMessageAsync(input.ToUpper()).ConfigureAwait(false);
