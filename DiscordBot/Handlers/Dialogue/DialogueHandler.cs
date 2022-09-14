@@ -46,7 +46,7 @@ namespace DiscordBot.Handlers.Dialogue
                 }
                 _currentStep = _currentStep.NextStep;
             }
-            await DeleteMessage().ConfigureAwait(false);
+           // await DeleteMessage().ConfigureAwait(false);
             return true;
         }
 

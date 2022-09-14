@@ -3,6 +3,7 @@ using DiscordBot.Handlers.Dialogue;
 using DiscordBot.Handlers.Dialogue.Steps;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
+using DSharpPlus.Entities;
 using DSharpPlus.Interactivity.Extensions;
 using System;
 using System.Collections.Generic;
@@ -98,6 +99,21 @@ namespace DiscordBot.Commands
             if (!succeeded) { return; }
             await ctx.Channel.SendMessageAsync(input.ToUpper()).ConfigureAwait(false);
             await ctx.Channel.SendMessageAsync(value.ToString()).ConfigureAwait(false);
+        }
+        [Command("emoji")]
+        public async Task EmojiDialogue(CommandContext ctx)
+        {
+            var yesStep = new TextStep("Você escolheu: sim", null);
+            var noStep = new TextStep("Você escolheu: não", null);
+
+            var emojiStep = new ReactionStep("Sim ou Não?", new Dictionary<DiscordEmoji, ReactionStepData>
+            {
+                {DiscordEmoji.FromName(ctx.Client, ":thumbsup:"),new ReactionStepData {Content = "Significa sim", NextStep=yesStep} },
+                {DiscordEmoji.FromName(ctx.Client, ":thumbsdown:"),new ReactionStepData {Content = "Significa não", NextStep=noStep} }
+            });
+            var inputDialogueHandler = new DialogueHandler(ctx.Client, ctx.Channel, ctx.User, emojiStep);
+            bool succeeded = await inputDialogueHandler.ProcessDialogue().ConfigureAwait(false);
+            if (!succeeded) { return; }
         }
     }
 }
