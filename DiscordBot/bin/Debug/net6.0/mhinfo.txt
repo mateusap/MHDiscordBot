@@ -1,0 +1,215 @@
+﻿Acidic Glavenus, Type: Brute Wyvern; Ailments: Defence Down; Weakness: Fire
+Agnaktor, Type: Leviathan; Elements: Fire; Ailments:Fireblight; Weakness:Water Ice Dragon
+Akantor, Type: Flying Wyvern; Elements: Fire Dragon; Ailments: Fireblight Dragonblight Defence Down; Weakness: Dragon Thunder
+Aknosom, Type: Bird Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Water Thunder
+Alatreon, Type: Elder Dragon; Elements: Fire Dragon Thunder Ice Water; Ailments: Fireblight Dragonblight Iceblight Snowman Thunderblight Waterblight; Weakness:Ice Water Dragon Fire
+Almudron, Type: Leviathan; Elements Water; Ailments: Waterblight Muddy; Weakness Fire Ice
+Amatsu, Type: Elder Dragon; Elements: Water; Ailments: Waterblight; Weakness: Dragon Fire
+Ancient Leshen, Type: Relict; Ailments: Bleeding; Weakness: Fire
+Anjanath, Type: Brute Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Water
+Apex Arzuros, Type: Fanged Beast; Weakness: Fire Ice
+Apex Diablos, Type: Flying Wyvern; Weakness: Water Ice Dragon Thunder
+Apex Mizutsune, Type: Leviathan; Elements: Water; Ailments: Bubble Waterblight; Weakness: Thunder Dragon
+Apex Rathalos, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Stun Poison; Weakness: Dragon Thunder
+Apex Rathian, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison; Weakness: Dragon Thunder
+Apex Zinogre, Type: Fanged Wyvern; Elements: Thunder; Ailments: Thunderblight Paralysis; Weakness: IceWater Fire
+Arzuros, Type: Fanged Beast; Weakness: Fire Ice
+Ash Kecha Wacha, Type: Fanged Beast; Elements: Fire; Ailments: Fireblight; Weakness: Water Ice Thunder
+Astalos, Type: Flying Wyvern; Elements: Thunder; Ailments: Thunderblight Paralysis Stun; Weakness: Ice Water
+Aurora Somnacanth, Type: Leviathan; Elements: Ice; Ailments: Iceblight; Weakness: Fire Thunder
+Azure Rathalos, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Stun Poison; Weakness: Dragon Ice
+Baleful Gigginox, Type: Flying Wyvern; Elements: Thunder; Ailments: Paralysis Thunderblight; Weakness: Water
+Banbaro, Type: Brute Wyvern; Weakness: Dragon Fire
+Barioth, Type: Flying Wyvern; Elements: Ice; Ailments: Iceblight Snowman; Weakness: Fire Thunder
+Barroth, Type: Brute Wyvern; Ailments: Muddy Waterblight; Weakness: Water Fire Ice
+Basarios, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Sleep Poison Noxious Poison; Weakness: Dragon Water
+Bazelgeuse, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Thunder Ice Dragon
+Behemoth, Type: Elder Dragon; Elements: FireThunder; Ailments: Fireblight Thunderblight Bleeding Defence Down; Weakness: Dragon Water
+Beotodus, Type: Piscine Wyvern; Elements: Ice; Ailments: Iceblight; Weakness: Thunder Fire
+Berserk Tetsucabra, Type: Amphibian; Ailments: Fatigue; Weakness: Ice Thunder
+Bishaten, Type: Fanged Beast; Ailments: Poison Stun Paralysis; Weakness: Ice Fire
+Black Diablos, Type: Flying Wyvern; Ailments: Stun; Weakness: Ice
+Black Gravios, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Sleep; Weakness: Water
+Blackveil Vaal Hazak, Type: Elder Dragon; Ailments: Effluvium; Weakness: Fire Dragon
+Blangonga, Type: Fanged Beast; Elements: Ice; Ailments: Iceblight Snowman; Weakness: Fire
+Blood Orange Bishaten, Type: Fanged Beast; Elements: Fire; Ailments: Fireblight; Weakness: Water Thunder
+Bloodbath Diablos, Type: Flying Wyvern; Weakness: Water
+Blue Yian Kut-Ku, Type: Bird Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Water Thunder
+Boltreaver Astalos, Type: Flying Wyvern; Elements: Thunder; Ailments: Thunderblight Paralysis; Weakness: Ice Water
+Brachydios, Type: Brute Wyvern; Elements: Fire; Ailments: Slimeblight Blastblight Blastscourge; Weakness: Water Ice
+Brute Tigrex, Type: Flying Wyvern; Weakness: Water
+Bulldrome, Type: Fanged Beast; Weakness: Thunder
+Ceadeus, Type: Elder Dragon; Elements: Water Dragon; Ailments: Waterblight Dragonblight; Weakness: Dragon Thunder
+Cephadrome, Type: Piscine Wyvern; Elements: Water; Ailments: Paralysis Waterblight; Weakness: Ice Thunder
+Chameleos, Type: Elder Dragon; Elements: Dragon; Ailments: Poison; Weakness: Dragon Fire
+Chaotic Gore Magala, Type: ???; Ailments: Frenzy Virus; Weakness: Fire Dragon
+Congalala, Type: Fanged Beast; Elements: Fire; Ailments: Fireblight Sleep Soiled Poison Paralysis; Weakness: Fire
+Coral Pukei-Pukei, Type: Bird Wyvern; Elements: Water; Ailments: Waterblight; Weakness: Ice
+Crimson Fatalis, Type: Elder Dragon; Elements: Fire Dragon; Ailments: Fireblight Blastblight; Weakness: Dragon Ice
+Crimson Qurupeco, Type: Bird Wyvern; Elements: Thunder; Ailments: Thunderblight Stun Sleep; Weakness: Ice
+Crimson Glow Valstrax, Type: Elder Dragon; Elements: Dragon; Ailments: Dragonblight; Weakness: Fire Water Thunder Ice
+Crystalbeard Uragaan, Type: Brute Wyvern; Elements: Fire; Ailments: Fireblight Sleep Stun; Weakness: Water Dragon
+Dah'ren Mohran, Type: Elder Dragon; Weakness: Thunder Dragon
+Daimyo Hermitaur, Type: Carapaceon; Elements: Water; Ailments: Waterblight; Weakness: Thunder
+Dalamadur, Type: Elder Dragon; Ailments: Paralysis; Weakness: DragonDeadeye Yian Garuga, Type: Bird Wyvern; Elements: Fire; Ailments: Poison Deadly Poison Fireblight; Weakness: Water Ice
+Desert Seltas, Type: Neopteron; Ailments: Paralysis; Weakness: IceThunder
+Desert Seltas Queen, Type: Neopteron; Elements: Water; Ailments: Soiled Stun Waterblight; Weakness: Ice Water Thunder
+Deviljho, Type: Brute Wyvern; Elements: Dragon; Ailments: Defence Down Dragonblight; Weakness: Dragon Thunder
+Diablos, Type: Flying Wyvern; Weakness: Ice
+Dire Miralis, Type: Elder Dragon; Elements: Fire; Ailments: Fireblight; Weakness: Dragon Ice
+Dodogama, Type: Fanged Wyvern; Ailments: Blastblight; Weakness: Thunder
+Dreadking Rathalos, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Noxious Poison; Weakness: Dragon Thunder
+Dreadqueen Rathian, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison Deadly Poison; Weakness: Dragon Thunder
+Drilltusk Tetsucabra, Type: Amphibian; Ailments: Fatigue Stun; Weakness: Water Thunder
+Duramboros, Type: Brute Wyvern; Ailments: Stun; Weakness: Fire Poison
+Ebony Odogaron, Type: Fanged Wyvern; Elements: Dragon; Ailments: Dragonblight Bleeding; Weakness: Water
+Elderfrost Gammoth, Type: Fanged Beast; Elements: Ice; Ailments: Iceblight Snowman; Weakness: Fire Thunder
+Emerald Congalala, Type: Fanged Beast; Elements: Fire; Ailments: Fireblight Sleep Soiled Poison Paralysis; Weakness: Ice
+Espinas, Type: Flying Wyvern; Elements: Fire; Ailments: Poison Paralysis; Weakness: Ice
+Fatalis, Type: Elder Dragon; Elements: Fire Dragon; Ailments: Fireblight Dragonblight; Weakness: Dragon Fire
+Frostfang Barioth, Type: Flying Wyvern; Elements: Ice; Ailments: Iceblight; Weakness: Fire
+Fulgur Anjanath, Type: Brute Wyvern; Elements: Thunder; Ailments: Thunderblight; Weakness: Water Ice
+Furious Rajang, Type: Fanged Beast; Elements: Thunder; Ailments: Thunderblight; Weakness: Ice
+Gaismagorm, Type: Elder Dragon; Ailments: Blastblight; Weakness: Dragon Thunder
+Gammoth, Type: Fanged Beast; Elements: Ice; Ailments: Iceblight Snowman; Weakness: Fire Thunder
+Garangolm, Type: Fanged Beast; Elements: FireWater; Ailments: Fireblight Waterblight; Weakness: Fire Water Thunder Ice
+Gendrome, Type: Bird Wyvern; Ailments: Paralysis; Weakness: Water Ice
+Giadrome, Type: Bird Wyvern; Elements: Ice; Ailments: Snowman Iceblight; Weakness: Fire
+Gigginox, Type: Flying Wyvern; Ailments: Poison Deadly Poison; Weakness: Fire
+Glacial Agnaktor, Type: Leviathan; Elements: Ice Water; Ailments: Iceblight Waterblight; Weakness: Fire Dragon
+Glavenus, Type: Brute Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Water Dragon
+Gobul, Type: Leviathan; Elements: Water; Ailments: Paralysis Stun; Weakness: Thunder Fire
+Gogmazios, Type: Elder Dragon; Elements: Fire; Ailments: Fireblight Tarred; Weakness: Dragon Fire
+Gold Rathian, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison Noxious Poison; Weakness: Thunder Water
+Goldbeard Ceadeus, Type: Elder Dragon; Elements: Water; Ailments: Waterblight; Weakness: Dragon
+Gore Magala, Type: ???; Ailments: Frenzy Virus; Weakness: Fire Thunder Dragon
+Goss Harag, Type: Fanged Beast; Elements: Ice; Ailments: Iceblight; Weakness: Fire Thunder
+Gravios, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Sleep; Weakness: Water
+Great Baggi, Type: Bird Wyvern; Ailments: Sleep; Weakness: Fire
+Great Girros, Type: Fanged Wyvern; Ailments: Paralysis; Weakness: Water Ice
+Great Izuchi, Type: Bird Wyvern; Weakness: Thunder Water
+Great Jaggi, Type: Bird Wyvern; Weakness: Fire
+Great Jagras, Type: Fanged Wyvern; Weakness: Fire
+Great Maccao, Type: Bird Wyvern; Weakness: Fire
+Great Wroggi, Type: Bird Wyvern; Ailments: Poison; Weakness: Ice
+Green Nargacuga, Type: Flying Wyvern; Ailments: Stun; Weakness: Thunder Fire
+Green Plesioth, Type: Piscine Wyvern; Elements: Water; Ailments: Sleep Waterblight; Weakness: Thunder Fire
+Grimclaw Tigrex, Type: Flying Wyvern; Ailments: Iceblight Waterblight; Weakness: Thunder Dragon
+Gypceros, Type: Bird Wyvern; Ailments: Poison Stun; Weakness: Fire
+Hallowed Jhen Mohran, Type: Elder Dragon; Weakness: Fire
+Hellblade Glavenus, Type: Brute Wyvern; Elements: Fire; Ailments: Fireblight Blastblight; Weakness: Water Ice
+Iodrome, Type: Bird Wyvern; Ailments: Poison; Weakness: Thunder Water
+Ivory Lagiacrus, Type: Leviathan; Elements: Thunder Water; Ailments: Thunderblight Waterblight; Weakness: Fire Dragon
+Jade Barroth, Type: Brute Wyvern; Elements: Ice; Ailments: Snowman Iceblight; Weakness: Fire Thunder
+Jhen Mohran, Type: Elder Dragon; Weakness: Dragon Ice
+Jyuratodus, Type: Piscine Wyvern; Elements: Water; Ailments: Waterblight Muddy; Weakness: Thunder Water
+Kecha Wacha, Type: Fanged Beast; Elements: Water; Ailments: Waterblight; Weakness: Fire Thunder
+Khezu, Type: Flying Wyvern; Elements: Thunder; Ailments: Thunderblight Paralysis Stun; Weakness: Fire
+Kirin, Type: Elder Dragon; Elements: Thunder; Ailments: Thunderblight Paralysis; Weakness: Fire Water
+Kulu-Ya-Ku, Type: Bird Wyvern; Ailments: Stun; Weakness: Water
+Kulve Taroth, Type: Elder Dragon; Elements: Fire; Ailments: Fireblight; Weakness: Thunder Ice
+Kushala Daora, Type: Elder Dragon; Elements: Dragon Ice; Ailments: Snowman Iceblight Dragonblight; Weakness: Dragon Thunder
+Lagiacrus, Type: Leviathan; Elements: Thunder; Ailments: Thunderblight Waterblight; Weakness: Fire
+Lagombi, Type: Fanged Beast; Elements: Ice; Ailments: Iceblight; Weakness: Fire Thunder
+Lao-Shan Lung, Type: Elder Dragon
+Lavasioth, Type: Piscine Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Water
+Legiana, Type: Flying Wyvern; Elements: Ice; Ailments: Iceblight; Weakness: Thunder Fire
+Leshen, Type: Relicts; Ailments: Bleeding; Weakness: Fire
+Lucent Nargacuga, Type: Flying Wyverns; Ailments: Poison; Weakness: Ice Dragon
+Lunagaron, Type: Fanged Wyvern; Elements: Ice; Ailments: Iceblight Stun; Weakness: Fire
+Lunastra, Type: Elder Dragon; Elements: Fire Dragon; Ailments: Fireblight; Weakness: Dragon Ice
+Magma Almudron, Type: Leviathan; Elements: Fire; Ailments: Fireblight; Weakness: Water Ice
+Magnamalo, Type: Fanged Wyvern; Ailments: Hellfireblight; Weakness: Water Thunder
+Makili Pietru, Type: Elder Dragon; Elements: Fire Thunder Ice Dragon; Ailments:  Fireblight Paralysis; Weakness: Fire
+Malfestio, Type: Bird Wyvern; Ailments: Sleep Confusion; Weakness: Fire Water
+Malzeno, Type: Elder Dragon; Elements: Dragon; Ailments: Bloodblight Dragonblight; Weakness: Dragon Fire
+Mizutsune, Type: Leviathan; Elements: Water; Ailments: Bubble Waterblight; Weakness: Thunder Dragon
+Molten Tigrex, Type: Flying Wyvern; Ailments: Blastblight; Weakness: Water Ice
+Monoblos, Type: Flying Wyvern; Weakness: Thunder Ice
+Najarala, Type: Snake Wyvern; Ailments: ParalysisStun; Weakness: Ice Water
+Nakarkos, Type: Elder Dragon; Elements: Dragon; Ailments: Mucus Boned Fireblight Blastblight Dragonblight Thunderblight Paralysis; Weakness: Dragon Fire
+Namielle, Type: Elder Dragon; Elements: Water Thunder; Ailments: Waterblight Thunderblight; Weakness: Fire
+Nargacuga, Type: Flying Wyvern; Ailments: Bleeding; Weakness: Thunder Fire
+Narwa the Allmother, Type: Elder Dragon; Elements: Thunder; Ailments: Thunderblight; Weakness: Dragon Ice
+Nergigante, Type: Elder Dragon; Weakness: Thunder
+Nerscylla, Type: Temnoceran; Ailments: Poison Deadly Poison Sleep Webbed; Weakness: Fire Thunder
+Nibelsnarf, Type: Leviathan; Ailments: Waterblight; Weakness: Ice Thunder
+Nightcloak Malfestio, Type: Bird Wyvern; Ailments: Sleep Confusion; Weakness: Water
+Nightshade Paolumu, Type: Flying Wyvern; Ailments: Sleep; Weakness: Water
+Odogaron, Type: Fanged Wyvern; Ailments: Bleeding; Weakness: Ice Thunder
+Oltura, Type: Elder Dragon; Elements: Fire Water Thunder Ice Dragon
+Oroshi Kirin, Type: Elder Dragon; Elements: Ice; Ailments: Iceblight Snowman; Weakness: Fire Water
+Paolumu, Type: Flying Wyvern; Weakness: Fire
+Pink Rathian, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison Noxious Poison; Weakness: Dragon Thunder
+Plesioth, Type: Piscine Wyvern; Elements: Water; Ailments: Waterblight Sleep; Weakness: Thunder Fire
+Plum Daimyo Hermitaur, Type: Carapaceon; Elements: Water; Ailments: Waterblight; Weakness: Ice Thunder
+Pukei-Pukei, Type: Bird Wyvern; Ailments: Poison Stun; Weakness: Thunder
+Purple Gypceros, Type: Bird Wyvern; Ailments: Poison Deadly Poison Stun; Weakness: Fire
+Purple Ludroth, Type: Leviathan; Ailments: Poison Noxious Poison; Weakness: Fire Thunder
+Pyre Rakna-Kadaki, Type: Temnoceran; Elements: Fire; Ailments: Fireblight Blastblight Webbed; Weakness: Water Ice
+Qurupeco, Type: Bird Wyvern; Elements: Fire; Ailments: Fireblight Defence Down Sleep; Weakness: Ice
+Radobaan, Type: Brute Wyvern; Ailments: Sleep; Weakness: Dragon Ice
+Raging Brachydios, Type: Brute Wyvern; Ailments: Blastblight BlastScourge; Weakness: Ice Water
+Rajang, Type: Fanged Beast; Elements: Thunder; Ailments: Thunderblight; Weakness: Ice
+Rakna-Kadaki, Type: Temnoceran; Elements: Fire; Ailments: Fireblight Webbe; Weakness: Ice Water
+Rathalos, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Stun Poison; Weakness: Dragon Thunder
+Rathian, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison; Weakness: Dragon Thunder
+Red Khezu, Type: Flying Wyvern; Elements: Thunder; Ailments: Thunderblight Paralysis; Weakness: Water
+Redhelm Arzuros, Type: Fanged Beast; Ailments: Stun; Weakness: Fire Ice
+Royal Ludroth, Type: Leviathan; Elements: Water; Ailments: Waterblight; Weakness: Fire Thunder
+Ruby Basarios, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison Deadly Poison Sleep Stun; Weakness: Ice
+Ruiner Nergigante, Type: Elder Dragon; Ailments: Bleeding; Weakness: Dragon
+Rust Duramboros, Type: Brute Wyvern; Ailments: Muddy; Weakness: Water Ice
+Rusted Kushala Daora, Type: Elder Dragon; Elements: Dragon; Ailments: Iceblight; Weakness: Water Dragon
+Rustrazor Ceanataur, Type: Carapaceon; Elements: Water; Ailments: Waterblight Bleeding Defence Down; Weakness: Thunder Ice
+Safi'jiiva, Type: Elder Dragon; Elements: Fire; Ailments: Fireblight; Weakness: Dragon
+Sand Barioth, Type: Flying Wyvern; Weakness: Ice Thunder
+Savage Deviljho, Type: Brute Wyvern; Elements: Dragon; Ailments: Defence Down Dragonblight; Weakness: Dragon Thunder
+Scarred Yian Garuga, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Poison; Weakness: Water
+Scorned Magnamalo, Type: Fanged Wyvern; Ailments: Hellfireblight; Weakness: Water Thunder
+Seething Bazelgeuse, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Ice
+Seltas, Type: Neopteron; Ailments: Defence Down Fatigue; Weakness: Thunder Fire
+Seltas Queen, Type: Neopteron; Elements: Water; Ailments: Waterblight Soiled Stun; Weakness: Fire Ice
+Seregios, Type: Flying Wyvern; Ailments: Bleeding; Weakness: Thunder Ice
+Shagaru Magala, Type: Elder Dragon; Ailments: Frenzy Virus; Weakness: Dragon Fire
+Shah Dalamadur, Type: Elder Dragon; Ailments: Paralysis; Weakness: Dragon Thunder Ice
+Shara Ishvalda, Type: Elder Dragon; Elements: Fire; Ailments: Fireblight; Weakness: Ice
+Shogun Ceanataur, Type: Carapaceon; Elements: Water; Ailments: Waterblight Bleeding; Weakness: Thunder Ice
+Shrieking Legiana, Type: Flying Wyvern; Elements: Ice; Ailments: Iceblight; Weakness: Fire Thunder
+Shrouded Nerscylla, Type: Temnoceran; Ailments: Paralysis Poison Noxious Poison Webbed; Weakness: Ice Fire
+Silver Rathalos, Type: Flying Wyvern; Elements: Fire; Ailments: Fireblight Stun Poison; Weakness: Water Thunder
+Silverwind Nargacuga, Type: Flying Wyvern; Ailments: Bleeding; Weakness: Thunder Fire
+Snowbaron Lagombi, Type: Fanged Beast; Elements: Ice; Ailments: Iceblight Snowman Stun; Weakness: Fire Thunder
+Somnacanth, Type: Leviathan; Ailments: Sleep Stun Blastblight Waterblight; Weakness: Thunder Fire
+Soulseer Mizutsune, Type: Leviathan; Elements: Fire Water; Ailments: Waterblight Bubble Fireblight; Weakness: Thunder Dragon
+Steel Uragaan, Type: Brute Wyvern; Elements: Fire; Ailments: Fireblight Soiled; Weakness: Water Dragon
+Stonefist Hermitaur, Type: Carapaceon; Elements: Water; Ailments: Waterblight; Weakness: Thunder
+Stygian Zinogre, Type: Fanged Wyvern; Elements: Dragon; Ailments: Dragonblight; Weakness: Thunder
+Teostra, Type: Elder Dragon; Elements: Fire Dragon; Ailments: Fireblight Blastblight Stun; Weakness: Dragon Water Ice
+Tetranadon, Type: Amphibian; Elements: Water; Ailments: Waterblight; Weakness: Thunder Fire
+Tetsucabra, Type: Amphibian; Ailments: Fatigue; Weakness: Water Thunder
+Thunder Serpent Narwa, Type: Elder Dragon; Elements: Thunder; Ailments: Thunderblight; Weakness: Dragon Ice
+Thunderlord Zinogre, Type: Fanged Wyvern; Elements: Thunder; Ailments: Thunderblight Stun; Weakness: Ice
+Tidal Najarala, Type: Snake Wyvern; Elements: Water; Ailments: Waterblight Paralysis; Weakness: Fire Thunder
+Tigerstripe Zamtrios, Type: Amphibian; Elements: Water; Ailments: Waterblight Paralysis; Weakness: Ice Thunder
+Tigrex, Type: Flying Wyvern; Weakness: Thunder Dragon
+Tobi-Kadachi, Type: Fanged Wyvern; Elements: Thunder; Ailments: Thunderblight; Weakness: Water
+Tzitzi-Ya-Ku, Type: Bird Wyvern; Ailments: Stun; Weakness: Thunder Ice
+Ukanlos, Type: Flying Wyvern; Elements: Ice; Ailments: Iceblight Snowman; Weakness: Fire Thunder
+Uragaan, Type: Brute Wyvern; Elements: Fire; Ailments: Fireblight Sleep; Weakness: Water Dragon
+Vaal Hazak, Type: Elder Dragon; Ailments: Effluvium; Weakness: Fire Dragon
+Valstrax, Type: Elder Dragon; Elements: Dragon; Ailments: Dragonblight; Weakness: Fire Water Thunder Ice
+Velkhana, Type: Elder Dragon; Elements: Ice; Ailments: Iceblight; Weakness: Thunder Dragon Fire
+Velocidrome, Type: Bird Wyvern; Weakness: Thunder Ice
+Versa Pietru, Type: Elder Dragon; Weakness: Fire
+Viper Tobi-Kadachi, Type: Fanged Wyvern; Ailments: Poison Deadly Poison Paralysis; Weakness: Thunder Ice
+Volvidon, Type: Fanged Beast; Ailments: Paralysis Soiled; Weakness: Water
+White Fatalis, Type: Elder Dragon; Elements: Thunder Dragon; Ailments: Thunderblight Dragonblight; Weakness: Dragon Fire
+White Monoblos, Type: Flying Wyvern; Weakness: Thunder
+Wind Serpent Ibushi, Type: Elder Dragon; Elements: Dragon; Ailments: Dragonblight; Weakness: Dragon Fire
+Xeno'jiiva, Type: Elder Dragon; Elements: Fire Dragon; Ailments: Fireblight Dragonblight; Weakness: Fire Dragon Water Thunder Ice
+Yian Garuga, Type: Bird Wyvern; Elements: Fire; Ailments: Fireblight Poison; Weakness: Water
+Yian Kut-Ku, Type: Bird Wyvern; Elements: Fire; Ailments: Fireblight; Weakness: Water Ice
+Zamtrios, Type: Amphibian; Elements: Water Ice; Ailments: Waterblight Iceblight Snowman; Weakness: Thunder Fire
+Zinogre, Type: Fanged Wyvern; Elements: Thunder; Ailments: Thunderblight; Weakness: Ice
+Zorah Magdaros, Type: Elder Dragon; Elements: Fire; Ailments: Fireblight Stun; Weakness: Water Dragon

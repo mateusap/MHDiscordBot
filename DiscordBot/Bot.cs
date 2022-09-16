@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DiscordBot.Models;
 
 namespace DiscordBot
 {
@@ -26,6 +27,18 @@ namespace DiscordBot
                 json = await sr.ReadToEndAsync().ConfigureAwait(false);
 
             var configJson = JsonConvert.DeserializeObject<ConfigJson>(json);
+
+           /* using (StreamReader srinfo = File.OpenText("mhinfo.txt"))
+            {
+                Dictionary<MonsterName, MonsterInfo> dict = new Dictionary<MonsterName, MonsterInfo>();
+                while (!srinfo.EndOfStream)
+                {
+                    string[] information = srinfo.ReadLine().Split('-');
+                    string name = information[0];
+                    string description = information[1];
+                }
+            }*/
+
 
             var config = new DiscordConfiguration
             {
@@ -54,6 +67,7 @@ namespace DiscordBot
 
             Commands.RegisterCommands<TestCommands>();
             Commands.RegisterCommands<TeamCommands>();
+            Commands.RegisterCommands<MHCommands>();
 
             await Client.ConnectAsync();
             await Task.Delay(-1);
