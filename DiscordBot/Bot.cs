@@ -27,19 +27,6 @@ namespace DiscordBot
                 json = await sr.ReadToEndAsync().ConfigureAwait(false);
 
             var configJson = JsonConvert.DeserializeObject<ConfigJson>(json);
-
-           /* using (StreamReader srinfo = File.OpenText("mhinfo.txt"))
-            {
-                Dictionary<MonsterName, MonsterInfo> dict = new Dictionary<MonsterName, MonsterInfo>();
-                while (!srinfo.EndOfStream)
-                {
-                    string[] information = srinfo.ReadLine().Split('-');
-                    string name = information[0];
-                    string description = information[1];
-                }
-            }*/
-
-
             var config = new DiscordConfiguration
             {
                 Token = configJson.Token,
