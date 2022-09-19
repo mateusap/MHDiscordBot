@@ -1,0 +1,64 @@
+Alatreon
+Ancient Leshen
+Anjanath
+Fulgur Anjanath
+Banbaro
+Barioth
+Frostfang Barioth
+Barroth
+Bazelgeuse
+Seething Bazelgeuse
+Behemoth
+Beotodus
+Brachydios
+Raging Brachydios
+Deviljho
+Savage Deviljho
+Diablos
+Black Diablos
+Dodogama
+Fatalis
+Glavenus
+Acidic Glavenus
+Lavasioth
+Legiana
+Shrieking Legiana
+Leshen
+Lunastra
+Namielle
+Nargacuga
+Nergigante
+Ruiner Nergigante
+Odogaron
+Ebony Odogaron
+Paolumu
+Nightshade Paolumu
+Pukei-Pukei
+Coral Pukei-Pukei
+Radobaan
+Rajang
+Furious Rajang
+Rathalos
+Azure Rathalos
+Silver Rathalos
+Rathian
+Pink Rathian
+Gold Rathian
+Safi'jiiva
+Shara Ishvalda
+Teostra
+Tigrex
+Brute Tigrex
+Tobi-Kadachi
+Viper Tobi-Kadachi
+Tzitzi-Ya-Ku
+Uragaan
+Vaal Hazak
+BlackVeil Vaalhazak
+Velkhana
+Xeno'jiiva
+Yian Garuga
+Scarred Yian Garuga
+Zinogre
+Stygian Zinogre
+Zorah Magdaros

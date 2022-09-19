@@ -22,26 +22,26 @@ namespace DiscordBot.Commands
                 Color = DiscordColor.Green
             };
             var joinMessage = await ctx.Channel.SendMessageAsync(embed : joinEmbed).ConfigureAwait(false);
-            var thumbsUp = DiscordEmoji.FromName(ctx.Client, ":+1:");
-            var thumbsDown = DiscordEmoji.FromName(ctx.Client, ":-1:");
+            var melee = DiscordEmoji.FromName(ctx.Client, ":dagger:");
+            var ranged = DiscordEmoji.FromName(ctx.Client, ":bow_and_arrow:");
 
-            await joinMessage.CreateReactionAsync(thumbsUp).ConfigureAwait(false);
-            await joinMessage.CreateReactionAsync(thumbsDown).ConfigureAwait(false);
+            await joinMessage.CreateReactionAsync(melee).ConfigureAwait(false);
+            await joinMessage.CreateReactionAsync(ranged).ConfigureAwait(false);
 
             var interactivity = ctx.Client.GetInteractivity();
             var reactionResult = await interactivity.WaitForReactionAsync(
                 x => x.Message == joinMessage && 
                 x.User == ctx.User && 
-                (x.Emoji == thumbsUp ||x.Emoji== thumbsDown)).ConfigureAwait(false);
+                (x.Emoji == melee ||x.Emoji== ranged)).ConfigureAwait(false);
 
-            if (reactionResult.Result.Emoji == thumbsUp)
+            if (reactionResult.Result.Emoji == melee)
             {
                 var otherRole = ctx.Guild.GetRole(1017446541465747466);
                 var role = ctx.Guild.GetRole(1017446484108660786);
                 await ctx.Member.RevokeRoleAsync(otherRole).ConfigureAwait(false);
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
-            else if (reactionResult.Result.Emoji == thumbsDown)
+            else if (reactionResult.Result.Emoji == ranged)
             {
                 var otheRole = ctx.Guild.GetRole(1017446484108660786);
                 var role = ctx.Guild.GetRole(1017446541465747466);
